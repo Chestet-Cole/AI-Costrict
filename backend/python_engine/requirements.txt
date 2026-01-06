@@ -1,9 +1,0 @@
-# 健康智护系统 - Python引擎依赖包
-# HealthSmart Python Engine Dependencies
-
-# 数据处理
-pandas>=2.0.0
-numpy>=1.24.0
-
-# JSON处理（增强版）
-python-dateutil>=2.8.2
